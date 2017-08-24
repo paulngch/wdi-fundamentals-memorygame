@@ -10,7 +10,7 @@ h1{
 	font-size: 45px;
 }
 
-.nav1{
+a{
 	font-family: "Raleway", sans-serif;
 	color: #F15B31;
 	font-weight: 600;
@@ -18,7 +18,7 @@ h1{
 
 }
 
-.inst{
+h2{
 	font-family: "Raleway", sans-serif;
 	color: #0D2C40;
 	font-weight: 600;
