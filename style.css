@@ -5,22 +5,22 @@ body {
 
 h1{
 	font-family: "Raleway", sans-serif;
-	colour: #0D2C40;
+	color: #0D2C40;
 	font-weight: 400;
 	font-size: 45px;
 }
 
-.class1{
+.nav1{
 	font-family: "Raleway", sans-serif;
-	colour: #F15B31;
+	color: #F15B31;
 	font-weight: 600;
 	font-size: 18px;
 
 }
 
-.class2{
+.inst{
 	font-family: "Raleway", sans-serif;
-	colour: #0D2C40;
+	color: #0D2C40;
 	font-weight: 600;
 	font-size: 20px;
 }
